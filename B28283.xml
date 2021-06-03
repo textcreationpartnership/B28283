@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for raising a thousand pounds</title>
+            <author>Povey, Charles, 1652?-1743.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28283</idno><idno type="EEBO-CITATION">99832060</idno>
+  <idno type="VID">198885</idno>
+  <idno type="EEBO-PROQUEST">2240931190</idno>
+  
+            <idno type="STC">Wing P3040A</idno>
+            <idno type="PROQUEST">99832060</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832060e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28283)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198885)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21242:78)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for raising a thousand pounds</title>
+                  <author>Povey, Charles, 1652?-1743.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Henry Hills in Black-Fryers, near the Water-side,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>[1699]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attribution from first line of text.</note>
+                  <note>Place of publication and printer's name from colophon; date of publication from DNB.</note>
+                  <note>Identified as Wing (2nd ed.) P3740 on UMI microfilm set "Early English books, 1641-1700", reel 2124.2.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coal trade --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:198885:1"/>
+            <head>
+               <hi>PROPOSALS</hi> For Raising A Thousand Pounds.</head>
+            <p>
+               <hi>CHARLES POVEY</hi> Coal-Merchant, near Execution-Dock in <hi>Wapping,</hi> having taken a Wharf and Yard for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>everal Years on Lease, which Yard is One hundred twenty and six Foot long, and Forty nine Foot broad, being room sufficient to lay Two thou<g ref="char:EOLhyphen"/>sand Chaldrons of Coals; and finding, that every hundred Chal<g ref="char:EOLhyphen"/>drons of Coals that he Sold, Cost him in Lighters and Porters Backing them Ten pounds: These considerations have put him upon contriving an Engin, and after a great deal of time and charge bestowed to that purpose; he has made one, which will deliver Coals without the use of Lighters, or Porters backing them; to the Admiration of several Hundreds of People that came from all Parts to see it Work: The First day that it was used, it deliver'd 35, the Se<g ref="char:EOLhyphen"/>cond 55, the Third 70, and now it will deliver 100 Chaldrons of Coals into his Yard in one day, for Twenty shillings Charge.</p>
+            <p n="1">I. This Engin may be used every day, for Twenty years together, without wanting any repair, and it will deliver as many Coals all the Year round, as Three thousand pounds in Lighters, and One hundred Men to work them.</p>
+            <p n="2">II. It will deliver as many Coals in a Week, for Six pounds charge, as any other Person can for Forty: But, it is more especially observable, that neither this, nor any other Engin can be used at any other Place, but at his Wharf and Yard; for the Reasons following.</p>
+            <p n="1">I. All those Wharfs above the Bridg are exempted, by reason that no Loaded Collier can pass through the Bridge.</p>
+            <p n="2">II. There is not from the Bridg to <hi>Blackwall,</hi> any piece of Ground Larg enough for the working this, or any other Engin.</p>
+            <p n="3">III. Nor is there any place in the River <hi>Thames,</hi> where a Ship can lye on Shore to unload Coals, but at his Wharf.</p>
+            <p>So that the whole Profit of the Engin will be to himself, and to those that are concern'd with him, and this being too great an Undertaking for any one Person to manage; He makes the following Proposals:</p>
+            <p n="1">I. Every Person, who shall put in One hundred pounds, or more, shall re<g ref="char:EOLhyphen"/>ceive as Intrest for every Hundred pounds so put in, One Penny for every Chaldron of Coals, that is deliver'd at his Wharf by this Engin.</p>
+            <p n="2">II. They may put in for what number of Years they think Convement.</p>
+            <p n="3">III. The managment of this Affair will require Three or Four Clerks, so that every one who puts in Two hundred and fifty pounds, may if requir'd▪ have the liberty to chuse a Clerk of his own acquaintance; to see that all things are duly manag'd; and they shall be mantain'd at the charge of the said <hi>Charles Povey</hi>
+            </p>
+            <p n="4">IV. Every Pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>son who puts Mony in, shall have two Bonds, <hi>viz.</hi> one for the Principal and the other for the Intrest; under the penalty of forfeiting One hundred pounds, if they be misreckon'd of one Chaldron of Coals that shall be landed at his Wharf.</p>
+            <pb n="2" facs="tcp:198885:2"/>
+            <p n="5">V. The Intrest to be paid every Month, if requir'd.</p>
+            <p n="6">VI. If this Engin were to be worked but two days in a Week, it would bring in Forty <hi>per Cent.</hi> Intrest, and should it be worked every day (which is not at all unlikely) it would bring in <hi>Cent. per Cent.</hi>
+            </p>
+            <p n="7">VII. In case of the Death of the Undertaker, the Mony to be return'd with<g ref="char:EOLhyphen"/>in one Month after, if requir'd.</p>
+            <p>And to answer all Objections that may arise, about the safety of their Mony in his Hands, he desires all that have a mind to be concern'd, to Inquire of his Substance, Trade and Reputation, and to consider the Six following Particulars, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>I. That after so much Mony and time expended by the Porjecter, every thing answers beyond Expectation.</item>
+               <item>II. That he actually drives a great Trade, which is well settled, and all for ready Mony.</item>
+               <item>III. That his Engin is of a far greater Value, than what Mony he Proposes to raise.</item>
+               <item>IV. It may reasonably be expected, that it will turn to as great account, as any thing ever did; the Coal-Trade being one of the greatest concerns, that belong to this City, or Suburbs.</item>
+               <item>V. This is not a thing only in Agitation, but what is really brought to perfection, and fix'd in all respects.</item>
+               <item>VI. No hazard is run in giving Credit, nor is there any danger of Fire, by reason that the whole Stock lies entire: So that no Person can be in danger of Losing the Principal or Intrest.</item>
+            </list>
+            <p>And for the better Managment and Improvement of this Undertaking, any Gentleman, or other Person of good repute, who shall be approv'd of, and is willing to give the best consideration, may come in as Partner; which will tend very much to his advantage, and may be manag'd by himself, or any of his Friends, or Relations, whom he shall thinkfit to appoint: And for his further satisfaction, he shall be instructed, how to manage the Trade, and set the Engin to work, as well as the Projecter himself: And after his Death, the Engin and all the Appurtenances belonging to it shall be made over to him, as his own.</p>
+            <p>And in case he dye before the Projecter, then his next Heir to be admitted as Partner, or to recal the Stock that was put in by him, and to have the con<g ref="char:EOLhyphen"/>sideration he gave to come in, return'd, or have the liberty to make the best of it, to any other Person, who shall be approv'd of.</p>
+            <p>So that it will be a good Income to him and his Heirs; for the Engin with a very little repair may last one Hundred Years, though continually used.</p>
+            <p>This Engin will deliver Thirty thousand Chaldrons of Coals in a Year, for Three hundred pounds Charge; which were they to be Loaded in Lighters, and Carryed by Porters, would Cost Three thousand pounds.</p>
+            <p>But it may be Objected, that no Man can dispose of so great a Quantity; to which Objection Answer is made, that it is but a small Quantity to what is consumed in this City and Suburbs: For it is computed, that Ten hundred thou<g ref="char:EOLhyphen"/>sand Chaldrons of Coals are yearly Imported into the River of <hi>Thames;</hi> there being many Brewers and Glass-houses that use Eight hundred, or a Thou<g ref="char:EOLhyphen"/>sand Chaldrons every Year.</p>
+            <p>Now to the answering all Objections that can be brought, the first and main Objection will be this. What Assurance can there be of gaining so many Cu<g ref="char:EOLhyphen"/>stomers, as will Imploy the Engin all the Year round? The 2d Objection may
+<pb n="3" facs="tcp:198885:2"/>be, How can Ten pence be given in every Chaldron of Coals that is Landed by this Engin? The 3d Objection may be, What Profit will there be to him that comes in as Partner? These Objections may easily be answered; for by the use of this Engin, the Projecter delivers his Coals one Shilling and ten pence in every Chaldron, cheaper than he formerly could do; besides the conveniency of seeing them Measur'd, and buying them cheaper, by reason of the quick Dispatch.</p>
+            <p>For if a Ship of Two hundred Chaldrons arrives at his Wharf one Day he can discharge them the next, besides the Privilege that he has of chusing such Coals as will give all People satisfaction, by reason of the Fleet, always lying be fore his Wharf.</p>
+            <p>Now for Answer to the first Objection, That he can procure as much Custom, as will always keep his Engin employ'd, by the following Methods:</p>
+            <p>First, he proposes, that out of the one Shilling and Ten pence, that is sav'd out of the Engin, one Shilling shall be allow'd the Customer. At all other Places, every one gives one Shilling <hi>per</hi> Chaldron Light' rage; besides the waiting for Tides: Here all Persons, who deal with him are freed from the charge of Lighters, and the trouble of waiting for Tides: For they stand on the Wharf, and see their Coals Measured out of the Vessel, into the Fat, by a Sworn Meeter, Loaded into the Carts▪ and carried immediatly to their respective places of Abode, if it be a Hundred Chaldrons in a Day; which gives a general Satisfaction, and has already turned to that account, that he has gain'd above Five hundred Customers.</p>
+            <p>And can it be supposed, that Brewers; Glass-houses, Dyers, D stillers, and other great Dealers that use Five or Six hundred, or a Thousand Chaldrons of Coals in the Year, will give so many hundreds of Shillings for L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghters, besides the trouble and charge of waiting for Tides; when they can save Thirty, Forty, or Fifty pounds in the Year, and be at no Trouble or Expence?</p>
+            <p>And to the 2d Objection, it may be replyed, that there is Ten pence <hi>per</hi> Chaldron remaining out of the Profit of the Engin, which is to go for the Interest of a Thousand Pounds; so that the whole Profit of the Engin, is given to procure a Trade, and increase the Stock.</p>
+            <p>And as for the 3d Objection, the Profits and Advantages to the Undertaker and Partner, will be these, <hi>viz.</hi>
+            </p>
+            <p n="1">I. Three pence for every Chaldron Wharfage, and Nine-pence for the Loading of the Carts</p>
+            <p n="2">II. The advantage of buying them Cheaper, by reason of the quick deli<g ref="char:EOLhyphen"/>vering of the Shipping.</p>
+            <p n="3">III. The Advantage of the Carts, that Carry them Home.</p>
+            <p n="4">IV The Advantage of the Rise of Fifteen hundred, or Two thousand Chaldrons of Coals in the Winter, when they rise Five, Ten, Fifteen, or Twenty Shillings in a Chaldron; which said Quantity of Coals he designs to lay up every Winter.</p>
+            <p>So that First, here is a certainty of a great Trade, 2dly, there is an As<g ref="char:EOLhyphen"/>surance of good Intrest for Mony, and 3dly, there will be considerable Profit to himself and Partner.</p>
+            <p>The main Design in Printing these Proposals, is for the encouragment of Trade▪ and to make the best advantage to himself, of such an Undertaking: For he is ass<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r'd, That were there Three Four, or Five thousand pounds Stock; what with the Profit of the Engin, the Advantage of buying the
+<pb n="4" facs="tcp:198885:3"/>Coals at the best hand, with the Wharfage, Loading, carrying of them home, returning the Mony so often in the Year, and the rise of the Coals in the Winter, it would make <hi>Cent per Cent,</hi> without the running any Hazard</p>
+            <p>And for further satisfaction; any Person who is desirous to be ad<g ref="char:EOLhyphen"/>mitt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d as Partner, or otherwise, may come and see the Engin work nine, or t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Chaldrons of Coals from the Ship, in the space of an Hour. Those that cannot come themselves, and yet have a mind to be concern'd, may send a Penny-post Letter to the said <hi>Charles Povey,</hi> signifying where he may come and discourse with them about that Affair.</p>
+            <list>
+               <head>These Proposals are to be had at the following Places.</head>
+               <item>Mr. <hi>Gilliflower</hi> Book-seller, in <hi>Westminster</hi>-hall.</item>
+               <item>Mr. <hi>Man</hi>'s Coffee-house, at <hi>Charing</hi>-cross.</item>
+               <item>Mr. <hi>Rumbald</hi> Book-seller, at the Post-house in <hi>Russel</hi>-street <hi>Co<g ref="char:EOLhyphen"/>vent</hi>-garden.</item>
+               <item>Mr. <hi>Wotton</hi> Book-seller, at the three Daggers, near the In<g ref="char:EOLhyphen"/>ner Temple-gate in <hi>Fleet</hi>-street.</item>
+               <item>Mr. <hi>Mortlock</hi> Book-seller, at the <hi>Phaenix</hi> in St <hi>Paul</hi>'s Church<g ref="char:EOLhyphen"/>yard.</item>
+               <item>Mr. <hi>Parker</hi> Book-seller, at the Leg and Star in <hi>Cornhill,</hi> over against the Royal Exchange.</item>
+               <item>Mr. <hi>Green</hi> Gold-smith, at the blew Anchor on little Tower-hill, going into the <hi>Minories.</hi>
+               </item>
+               <item>Mr. <hi>Besouth</hi> Cutler, in the broad Street, near <hi>Ratcliff</hi>-cross, next door to the Crown-Coffee-house.</item>
+               <item>Mr. <hi>Rowe</hi>'s Coffee-house, at the Bridg-foot in the Borough of <hi>Southwaak.</hi>
+               </item>
+               <item>
+                  <hi>Charles Povey</hi> Coal-Merchant, near Execution-Dock, in <hi>Wapping.</hi>
+               </item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed by <hi>Henry Hills</hi> in <hi>Black-Fryers,</hi> near the Water-side.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
